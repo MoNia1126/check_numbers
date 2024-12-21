@@ -20,7 +20,7 @@ Enter any integer number: 4
 
 ## How to Run
 1. Ensure Dart SDK is installed on your system.
-2. Save the file as `check_number.dart`.
+2. Save the file as `task3.dart`.
 3. Run the file using the command:
    ```bash
    dart run task3.dart
